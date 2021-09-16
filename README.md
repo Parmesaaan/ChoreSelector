@@ -3,6 +3,7 @@ A C# script that assigns chores randomly and fairly to two roomates based on the
 Change names of users in .cfg files.
 
 Next changes:
+
 Custom chores
 
 Difficulty/time rating per person, as opposed to per chore
