@@ -4,5 +4,7 @@ Change names of users in .cfg files.
 
 Next changes:
 Custom chores
+
 Difficulty/time rating per person, as opposed to per chore
+
 Additional people doing chores
