@@ -1,5 +1,5 @@
 # ChoreSelector
-A C# script that assigns chores randomly and fairly to two roomates based on the times and difficulties of each chore.
+A C# script that assigns chores randomly and fairly to two roomates based on the times and difficulties of each chore. Created out of necessity.
 Change names of users in .cfg files.
 
 Next changes:
